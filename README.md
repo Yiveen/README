@@ -6,6 +6,7 @@ The markdown gramma of Github is based on the standard markdown, it names `GitHu
 The above is thick line:****
 	
 |Table|Item|
+|---|---|
 |111|222
 
 ****
