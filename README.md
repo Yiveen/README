@@ -1,14 +1,12 @@
 README
 ===========================
-GitHub的markdown语法在标准的markdown语法基础上做了扩充，称之为`GitHub Flavored Markdown`。简称`GFM`，GFM在GitHub上有广泛应用，除了README文件外，issues和wiki均支持markdown语法。
+The markdown gramma of Github is based on the standard markdown, it names `GitHub Flavored Markdown`.
 
 ****
 The above is thick line:****
 	
 |Table|Item|
-|---|---|
-|||
-
+|111|222
 
 ****
 ## 目录
