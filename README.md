@@ -1,4 +1,4 @@
-README
+The usage of Github Markdown
 ===========================
 The markdown gramma of Github is based on the standard markdown, it names `GitHub Flavored Markdown`.
 
@@ -10,7 +10,7 @@ The above is thick line:****
 |111|222
 
 ****
-## 目录
+## Catalog
 * [横线](#横线)
 * [标题](#标题)
 * [文本](#文本)
@@ -42,7 +42,7 @@ The above is thick line:****
 * [diff语法](#diff语法)
 
 ### 横线
------------
+-------
 ***、---、___可以显示横线效果
 
 ***
@@ -52,7 +52,7 @@ ___
 
 
 标题
-------
+-----
 
 # 一级标题  
 ## 二级标题  
@@ -82,7 +82,6 @@ ___
 ```
 欢迎到访
 我是C++码农
-你可以在知乎、CSDN、简书搜索【果冻虾仁】找到我
 ```
 该语法也可以实现代码高亮，见[代码高亮](#代码高亮)
 ### 文字高亮
@@ -330,7 +329,7 @@ string &operator+(const string& A,const string& B) //cpp
 表格单元  | 表格单元 |
 
 | 表头1  | 表头2|
-| ---------- | -----------|
+| ----------------- | -----------|
 | 表格单元   | 表格单元   |
 | 表格单元   | 表格单元   |
 
